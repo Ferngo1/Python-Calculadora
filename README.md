@@ -87,7 +87,7 @@ O principal objetivo deste projeto não é apenas criar uma calculadora, mas uti
 ## 📚 Histórico de versões
 
 ### v1.0.0 — Calculadora básica
-**Data:** 05/10/2026
+**Data:** 01/10/2026
 
 Primeira versão funcional do projeto.
 
