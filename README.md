@@ -66,3 +66,36 @@ Pretendo evoluí-lo posteriormente adicionando novos recursos, como:
 ## 📚 Objetivo
 
 O principal objetivo deste projeto não é apenas criar uma calculadora, mas utilizar um projeto simples para colocar em prática os conceitos fundamentais de Python e acompanhar minha evolução durante os estudos.
+
+## 📌 Status
+
+**Versão atual: 1.0.0**
+
+## 🚀 Funcionalidades
+
+- [x] Soma
+- [x] Subtração
+- [x] Multiplicação
+- [x] Divisão
+- [x] Menu interativo
+- [x] Repetição de operações
+- [ ] Números decimais
+- [ ] Histórico de operações
+- [ ] Tratamento de entradas inválidas
+- [ ] Interface gráfica
+
+## 📚 Histórico de versões
+
+### v1.0.0 — Calculadora básica
+**Data:** 05/10/2026
+
+Primeira versão funcional do projeto.
+
+**Implementado:**
+- Operações básicas
+- Funções para cada operação
+- Menu interativo
+- Estrutura `while`
+- Opção para encerrar o programa
+
+---
